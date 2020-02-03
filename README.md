@@ -1,5 +1,5 @@
 # Cu-EDA
-This is about the eda of Cu in Chinese Future Market
+This is about the eda of Cu in China Futures Market
 ## Outline
 ### basic description 
 1. rows, max, min, duplicates, outliers?
@@ -20,7 +20,10 @@ This is about the eda of Cu in Chinese Future Market
 ### comparison with other futures
 1. correlation analysis
 2. crossover analysis
-3. (I am still confusing about this part)
+
+### statistical analysis
+1. HMM
+2. Fourier
 
 ### some hypothesis 
 1. different time/trading period has significant impact on price and amount
