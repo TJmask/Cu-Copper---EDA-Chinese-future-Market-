@@ -1,5 +1,5 @@
 # Cu-EDA
-This is about the eda of Cu in China Futures Market
+This is about the eda of Copper in China Futures Market
 ## Outline
 ### basic description 
 1. rows, max, min, duplicates, outliers?
